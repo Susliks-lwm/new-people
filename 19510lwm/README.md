@@ -13,7 +13,7 @@
 ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575096637&di=f50c21ce75836603ac1bf943966c6697&imgtype=jpg&er=1&src=http%3A%2F%2Finews.gtimg.com%2Fnewsapp_ls%2F0%2F10479292391_240180%2F0.jpg)   
 ## markdown的语法
 *首先给个网址*   
-[10分钟让你爱上markdown](https://b23.tv/av68265443/p1https://b23.tv/av68265443/p1)   
+[10分钟让你爱上markdown](https://b23.tv/av8819726)      
 *然后简单列举几个基本语法*
 标题
 ---------------------------
@@ -42,25 +42,25 @@
 ---------------------------
 
  无序列表
-  - Item
-  * Item
-   + Item
+  - 帅气的我
+  * 幽默的我
+   + 你更喜欢哪一个
 
 有序列表
-1. Item 1
-2. Item 2
-3. Item 3
+1. 我爱学习
+2. 学习爱我
+3. 完美
 
 待办列表:
-- [ ] Incomplete item
-- [x] Complete item
+- [ ] 睡觉
+- [x] 吃饭
 
 
 
 链接
 ---------------------------
 
-A [link](http://example.com).文字链接
+A [link](https://blog.csdn.net/sinat_33224091/article/details/97206378)     
 
 An image: ![Alt](img.jpg)图片链接
 
@@ -93,26 +93,26 @@ var foo = 'bar';
 
 Item     | Value
 -------- | -----
-Computer | $1600
-Phone    | $12
-Pipe     | $1
+学长     | ￥10000
+我       | ￥0.001
+学姐     | 无价
 
 
-| Column 1 | Column 2      |
+| 人生      |    砥砺       |
 |:--------:| -------------:|
-| centered | right-aligned |
+| 艰难      |     前行      |
 
 
 
 自定义列表
 ---------------------------
 
-Markdown
+Markdown learing
 :  Text-to-HTML conversion tool
 
-Authors
-:  John
-:  Luke
+pe0le
+:  me
+:  you
 
 
 
